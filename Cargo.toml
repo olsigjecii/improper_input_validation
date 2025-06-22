@@ -1,0 +1,10 @@
+[package]
+name = "improper_input_validation"
+version = "0.1.0"
+edition = "2024"
+
+# Cargo.toml
+[dependencies]
+actix-web = "4"
+serde = { version = "1.0", features = ["derive"] }
+validator = { version = "0.18", features = ["derive"] }
