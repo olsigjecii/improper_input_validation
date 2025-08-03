@@ -1,4 +1,4 @@
-# Improper Input Validation in Rust (actix-web)
+# Improper Input Validation in Rust (actix-web) 🦀
 
 This project is a hands-on demonstration of an improper input validation vulnerability and its mitigation in a Rust web application built with the actix-web framework.
 
